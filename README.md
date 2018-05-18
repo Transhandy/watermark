@@ -21,12 +21,3 @@ Use LSB algorithm to insert secret message to audio file (*.WAV)
 	Administrator:
 		id: administrator
 		pw: 1234567890
-
-
-!!! CONTACT ME !!!
-	
-	Facebook:	https://www.facebook.com/fvoxuankhang
-	Email:		khangvoxuan@gmail.com
-	SĐT:		(+84) 162 936 2887
-
-!!! CONTACT ME !!!
